@@ -1,0 +1,5 @@
+name: Damagedisplay
+version: '${project.version}'
+main: lustrecrew.damagedisplay.Damagedisplay
+api-version: 1.17
+prefix: Damagedisplay
